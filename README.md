@@ -51,6 +51,7 @@ French (C2), English (C1).
 
 ## Contact
 
+- Portfolio: [portfolio-nine-brown-54.vercel.app](https://portfolio-nine-brown-54.vercel.app)
 - Email: [a.inoussa@africadesign.school](mailto:a.inoussa@africadesign.school)
 - GitHub: [@InoussaLouqmane](https://github.com/InoussaLouqmane)
 - LinkedIn: [louqmane-inoussa](https://linkedin.com/in/louqmane-inoussa)
